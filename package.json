@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "16.3.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carinvid/portfolio-generator.git"
+  },
+  "author": "Carolina Reedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carinvid/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/carinvid/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
